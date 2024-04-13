@@ -69,7 +69,7 @@ let options = {
         sheetPage: sheetPages.items,
     
         itemAmount: 24,
-        itemOrder: "asc",
+        itemOrder: "desc",
     
         filterColumn: 'Rarity',
         searchFilterParams: ['Item'],
